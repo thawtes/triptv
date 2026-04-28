@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml" url-tvg="https://streams.uzunmuhalefet.com/epg/tr.xml" tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml"
 #EXTINF:1 tvg-id="TRT1.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TRT 1
+#EXTINF:1 tvg-id="TRTMuzik.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TEST
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/test.m3u8
 https://tv-trt1.medya.trt.com.tr/master_480.m3u8
 #EXTINF:1 tvg-id="ATV.tr" tvg-logo="https://LOGO.png" group-title="GENEL",ATV
 https://dsmartgo.daioncdn.net/atv/atv_480p.m3u8?e=1777425505&ppid=913515aae1c58f33ba6588acc5f038a3&rid=764164694dff81689cebe91ed8e83976&st=0f1KvRXbRHhvu_omkpvbVQ&userid=ed0&sid=8dbbam28vt0g&app=02cd485d-3ea0-41c3-a88c-30b72792fff1&ce=2
