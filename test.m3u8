@@ -1,1 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:NAME=480p,RESOLUTION=854x480
 https://tv-trtmuzik.medya.trt.com.tr/master_480.m3u8
