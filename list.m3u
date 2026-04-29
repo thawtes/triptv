@@ -1,143 +1,180 @@
-#EXTM3U x-tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml" url-tvg="https://streams.uzunmuhalefet.com/epg/tr.xml" tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml"
-#EXTINF:1 tvg-id="TRT1.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TRT 1
-#EXTINF:1 tvg-id="TRTMuzik.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TEST
-https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/test.m3u8
-https://tv-trt1.medya.trt.com.tr/master_480.m3u8
-#EXTINF:1 tvg-id="ATV.tr" tvg-logo="https://LOGO.png" group-title="GENEL",ATV
-https://dsmartgo.daioncdn.net/atv/atv_480p.m3u8?e=1777425505&ppid=913515aae1c58f33ba6588acc5f038a3&rid=764164694dff81689cebe91ed8e83976&st=0f1KvRXbRHhvu_omkpvbVQ&userid=ed0&sid=8dbbam28vt0g&app=02cd485d-3ea0-41c3-a88c-30b72792fff1&ce=2
-#EXTINF:1 tvg-id="ShowTV.tr" tvg-logo="https://LOGO.png" group-title="GENEL",SHOW
-https://ciner.daioncdn.net/showtv/showtv_480p.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
-#EXTINF:1 tvg-id="KanalD.tr" tvg-logo="https://LOGO.png" group-title="GENEL",KANAL D
-https://demiroren.daioncdn.net/kanald/kanald_480p.m3u8?app=kanald_web
-#EXTINF:1 tvg-id="KanalD.tr" tvg-logo="https://LOGO.png" group-title="GENEL",KANAL D [2]
-https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_480p.m3u8
-#EXTINF:1 tvg-id="StarTV.tr" tvg-logo="https://LOGO.png" group-title="GENEL",STAR
-M3U8_LINK
-#EXTINF:1 tvg-id="Now.tr" tvg-logo="https://LOGO.png" group-title="GENEL",NOW
-M3U8_LINK
-#EXTINF:1 tvg-id="Kanal7.tr" tvg-logo="https://LOGO.png" group-title="GENEL",KANAL 7
-M3U8_LINK
-#EXTINF:1 tvg-id="TV8.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TV 8
-M3U8_LINK
-#EXTINF:1 tvg-id="BeyazTV.tr" tvg-logo="https://LOGO.png" group-title="GENEL",BEYAZ
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_480p.m3u8
-#EXTINF:1 tvg-id="360.tr" tvg-logo="https://LOGO.png" group-title="GENEL",360
-M3U8_LINK
-#EXTINF:1 tvg-id="TV100.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TV 100
-M3U8_LINK
-#EXTINF:1 tvg-id="TRT2.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TRT 2
-M3U8_LINK
-#EXTINF:1 tvg-id="A2TV.tr" tvg-logo="https://LOGO.png" group-title="GENEL",A2 TV
-M3U8_LINK
-#EXTINF:1 tvg-id="Teve2.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TEVE 2
-M3U8_LINK
-#EXTINF:1 tvg-id="ShowMax.tr" tvg-logo="https://LOGO.png" group-title="GENEL",SHOW MAX
-M3U8_LINK
-#EXTINF:1 tvg-id="TV85.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TV 8.5
-M3U8_LINK
-#EXTINF:1 tvg-id="TV4.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TV 4
-M3U8_LINK
-#EXTINF:1 tvg-id="HaberturkTV.tr" tvg-logo="https://LOGO.png" group-title="HABER",HABERTURK
-M3U8_LINK
-#EXTINF:1 tvg-id="CNNTurk.tr" tvg-logo="https://LOGO.png" group-title="HABER",CNN TURK
-M3U8_LINK
-#EXTINF:1 tvg-id="NTV.tr" tvg-logo="https://LOGO.png" group-title="HABER",NTV
-M3U8_LINK
-#EXTINF:1 tvg-id="TRTHaber.tr" tvg-logo="https://LOGO.png" group-title="HABER",TRT HABER
-M3U8_LINK
-#EXTINF:1 tvg-id="HaberGlobal.tr" tvg-logo="https://LOGO.png" group-title="HABER",HABER GLOBAL
-M3U8_LINK
-#EXTINF:1 tvg-id="SozcuTV.tr" tvg-logo="https://LOGO.png" group-title="HABER",SOZCU
-M3U8_LINK
-#EXTINF:1 tvg-id="TGRTHaber.tr" tvg-logo="https://LOGO.png" group-title="HABER",TGRT HABER
-M3U8_LINK
-#EXTINF:1 tvg-id="UlkeTV.tr" tvg-logo="https://LOGO.png" group-title="HABER",ULKE
-M3U8_LINK
-#EXTINF:1 tvg-id="24TV.tr" tvg-logo="https://LOGO.png" group-title="HABER",24 TV
-M3U8_LINK
-#EXTINF:1 tvg-id="AHaber.tr" tvg-logo="https://LOGO.png" group-title="HABER",A HABER
-M3U8_LINK
-#EXTINF:1 tvg-id="" tvg-logo="https://LOGO.png" group-title="HABER",EKOL TV
-M3U8_LINK
-#EXTINF:1 tvg-id="HalkTV.tr" tvg-logo="https://LOGO.png" group-title="HABER",HALK TV
-M3U8_LINK
-#EXTINF:1 tvg-id="KRT.tr" tvg-logo="https://LOGO.png" group-title="HABER",KRT TV
-M3U8_LINK
-#EXTINF:1 tvg-id="AkitTV.tr" tvg-logo="https://LOGO.png" group-title="HABER",AKIT TV
-M3U8_LINK
-#EXTINF:1 tvg-id="Tele1.tr" tvg-logo="https://LOGO.png" group-title="HABER",TELE 1
-M3U8_LINK
-#EXTINF:1 tvg-id="TVNET.tr" tvg-logo="https://LOGO.png" group-title="HABER",TVNET
-M3U8_LINK
-#EXTINF:1 tvg-id="UlusalKanal.tr" tvg-logo="https://LOGO.png" group-title="HABER",ULUSAL KANAL
-M3U8_LINK
-#EXTINF:1 tvg-id="Ekoturk.tr" tvg-logo="https://LOGO.png" group-title="HABER",EKOTURK
-M3U8_LINK
-#EXTINF:1 tvg-id="TRTSpor.tr" tvg-logo="https://LOGO.png" group-title="SPOR",TRT SPOR
-M3U8_LINK
-#EXTINF:1 tvg-id="ASpor.tr" tvg-logo="https://LOGO.png" group-title="SPOR",A SPOR
-M3U8_LINK
-#EXTINF:1 tvg-id="FBTV.tr" tvg-logo="https://LOGO.png" group-title="SPOR",FB TV
-M3U8_LINK
-#EXTINF:1 tvg-id="TivibuSpor.tr" tvg-logo="https://LOGO.png" group-title="SPOR",TIVIBU SPOR
-M3U8_LINK
-#EXTINF:1 tvg-id="beINSportsHaber.tr" tvg-logo="https://LOGO.png" group-title="SPOR",beIN SPORTS HABER
-M3U8_LINK
-#EXTINF:1 tvg-id="SportsTV.tr" tvg-logo="https://LOGO.png" group-title="SPOR",SPORTS
-M3U8_LINK
-#EXTINF:1 tvg-id="TJKTV.tr" tvg-logo="https://LOGO.png" group-title="SPOR",TJK TV
-M3U8_LINK
-#EXTINF:1 tvg-id="TAYTV.tr" tvg-logo="https://LOGO.png" group-title="SPOR",TAY TV
-M3U8_LINK
-#EXTINF:1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://LOGO.png" group-title="SPOR",TRT SPOR YILDIZ
-M3U8_LINK
-#EXTINF:1 tvg-id="TLC.tr" tvg-logo="https://LOGO.png" group-title="BELGESEL",TLC
-M3U8_LINK
-#EXTINF:1 tvg-id="DMAX.tr" tvg-logo="https://LOGO.png" group-title="BELGESEL",DMAX
-M3U8_LINK
-#EXTINF:1 tvg-id="TRTBelgesel.tr" tvg-logo="https://LOGO.png" group-title="BELGESEL",TRT BELGESEL
-M3U8_LINK
-#EXTINF:1 tvg-id="TGRTBelgesel.tr" tvg-logo="https://LOGO.png" group-title="BELGESEL",TGRT BELGESEL
-M3U8_LINK
-#EXTINF:1 tvg-id="Yaban.tr" tvg-logo="https://LOGO.png" group-title="BELGESEL",YABAN TV
-M3U8_LINK
-#EXTINF:1 tvg-id="TRTMuzik.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",TRT MUZIK
-M3U8_LINK
-#EXTINF:1 tvg-id="DreamTurk.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",DREAM TURK
-M3U8_LINK
-#EXTINF:1 tvg-id="KralPopTV.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",KRAL POP
-M3U8_LINK
-#EXTINF:1 tvg-id="Number1Turk.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",NR1 TURK
-M3U8_LINK
-#EXTINF:1 tvg-id="Number1Ask.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",NR1 ASK
-M3U8_LINK
-#EXTINF:1 tvg-id="Number1Damar.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",NR1 DAMAR
-M3U8_LINK
-#EXTINF:1 tvg-id="PowerTurkTV.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",POWERTURK
-M3U8_LINK
-#EXTINF:1 tvg-id="PowerTurkSlow.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",POWERTURK SLOW
-M3U8_LINK
-#EXTINF:1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",POWERTURK TAPTAZE
-M3U8_LINK
-#EXTINF:1 tvg-id="PowerTurkAkustik.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",POWERTURK AKUSTIK
-M3U8_LINK
-#EXTINF:1 tvg-id="MilyonTV.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",MILYON TV
-M3U8_LINK
-#EXTINF:1 tvg-id="TatlisesTV.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",TATLISES
-M3U8_LINK
-#EXTINF:1 tvg-id="TMB.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",TMB
-M3U8_LINK
-#EXTINF:1 tvg-id="TRTCocuk.tr" tvg-logo="https://LOGO.png" group-title="COCUK",TRT COCUK
-M3U8_LINK
-#EXTINF:1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://LOGO.png" group-title="COCUK",DIYANET COCUK
-M3U8_LINK
-#EXTINF:1 tvg-id="MinikaCocuk.tr" tvg-logo="https://LOGO.png" group-title="COCUK",MINIKA COCUK
-M3U8_LINK
-#EXTINF:1 tvg-id="MinikaGo.tr" tvg-logo="https://LOGO.png" group-title="COCUK",MINIKA GO
-M3U8_LINK
-#EXTINF:1 tvg-id="CartoonNetwork.tr" tvg-logo="https://LOGO.png" group-title="COCUK",CARTOON NETWORK
-M3U8_LINK
-#EXTINF:1 tvg-id="EBATVOrtaokul.tr" tvg-logo="https://LOGO.png" group-title="COCUK",TRT EBA
-M3U8_LINK
-#EXTINF:1 tvg-id="" tvg-logo="https://LOGO.png" group-title="HABER",TBMM TV
-M3U8_LINK
+#EXTM3U x-tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml"
+#
+#--- GENEL ----------------------------------------------------------------------------------------------------------------------------#
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TRT 1
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/trt1.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://LOGO.png" group-title="GENEL",ATV
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/atv.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://LOGO.png" group-title="GENEL",SHOW
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/show.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://LOGO.png" group-title="GENEL",KANAL D
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/kanald.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://LOGO.png" group-title="GENEL",STAR
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/star.m3u8
+#EXTINF:-1 tvg-id="Now.tr" tvg-logo="https://LOGO.png" group-title="GENEL",NOW
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/now.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://LOGO.png" group-title="GENEL",KANAL 7
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/kanal7.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TV 8
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/tv8.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://LOGO.png" group-title="GENEL",BEYAZ
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/beyaz.m3u8
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TV 100
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/tv100.m3u8
+#EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://LOGO.png" group-title="GENEL",FX
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/fx.m3u8
+#EXTINF:-1 tvg-id="CnbcE.tr" tvg-logo="https://LOGO.png" group-title="GENEL",CNBC-E
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/cnbce.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TRT 2
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/trt2.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://LOGO.png" group-title="GENEL",360
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/360tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://LOGO.png" group-title="HABER",EKOL TV
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/ekol.m3u8
+#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://LOGO.png" group-title="BELGESEL",TLC
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/tlc.m3u8
+#EXTINF:-1 tvg-id="TabiiTv.tr" tvg-logo="https://LOGO.png" group-title="GENEL",TABii TV
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/tabii.m3u8
+#
+#--- DIZI -----------------------------------------------------------------------------------------------------------------------------#
+#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://LOGO.png" group-title="DIZI",TV 4
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/tv4.m3u8
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://LOGO.png" group-title="DIZI",A2 TV
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/a2tv.m3u8
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://LOGO.png" group-title="DIZI",TEVE 2
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/teve2.m3u8
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="https://LOGO.png" group-title="DIZI",SHOW MAX
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/showmax.m3u8
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://LOGO.png" group-title="DIZI",TV 8.5
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/tv85.m3u8
+#
+#--- HABER ----------------------------------------------------------------------------------------------------------------------------#
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://LOGO.png" group-title="HABER",HABER GLOBAL
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/haberglobal.m3u8
+#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://LOGO.png" group-title="HABER",HABERTURK
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/haberturk.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://LOGO.png" group-title="HABER",CNN TURK
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/cnnturk.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://LOGO.png" group-title="HABER",NTV
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/ntv.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://LOGO.png" group-title="HABER",TRT HABER
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/trthaber.m3u8
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://LOGO.png" group-title="HABER",A HABER
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/ahaber.m3u8
+#EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://LOGO.png" group-title="HABER",SOZCU
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/sozcu.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://LOGO.png" group-title="HABER",HALK TV
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/halktv.m3u8
+#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://LOGO.png" group-title="HABER",24 TV
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/24tv.m3u8
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="https://LOGO.png" group-title="HABER",ULKE
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/ulketv.m3u8
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://LOGO.png" group-title="HABER",TGRT HABER
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/tgrthaber.m3u8
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="https://LOGO.png" group-title="HABER",TVNET
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/tvnet.m3u8
+#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="https://LOGO.png" group-title="HABER",EKOTURK
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/ekoturk.m3u8
+#
+#--- SPOR -----------------------------------------------------------------------------------------------------------------------------#
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://LOGO.png" group-title="SPOR",TRT SPOR
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/trtspor.m3u8
+#EXTINF:-1 tvg-id="HtSpor.tr" tvg-logo="https://LOGO.png" group-title="SPOR",HT SPOR
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/htspor.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://LOGO.png" group-title="SPOR",A SPOR
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/aspor.m3u8
+#EXTINF:-1 tvg-id="EkolSpor.tr" tvg-logo="https://LOGO.png" group-title="SPOR",EKOL SPOR
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/ekolspor.m3u8
+#EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-logo="https://LOGO.png" group-title="SPOR",TIVIBU SPOR
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/tivibuspor.m3u8
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://LOGO.png" group-title="SPOR",beIN SPORTS HABER
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/beinsportshaber.m3u8
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://LOGO.png" group-title="SPOR",FB TV
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/fbtv.m3u8
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="https://LOGO.png" group-title="SPOR",TJK TV
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/tjk.m3u8
+#EXTINF:-1 tvg-id="TAYTV.tr" tvg-logo="https://LOGO.png" group-title="SPOR",TAY TV
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/taytv.m3u8
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://LOGO.png" group-title="SPOR",SPORTS
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/sports.m3u8
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://LOGO.png" group-title="SPOR",TRT SPOR YILDIZ
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/trtsporyildiz.m3u8
+#
+#--- BELGESEL -------------------------------------------------------------------------------------------------------------------------#
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://LOGO.png" group-title="BELGESEL",TRT BELGESEL
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/trtbelgesel.m3u8
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://LOGO.png" group-title="BELGESEL",DMAX
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/dmax.m3u8
+#EXTINF:-1 tvg-id="NatGeo.tr" tvg-logo="https://LOGO.png" group-title="BELGESEL",NATGEO
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/natgeo.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-logo="https://LOGO.png" group-title="BELGESEL",NATGEO WILD
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/natgeowild.m3u8
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="https://LOGO.png" group-title="BELGESEL",TGRT BELGESEL
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/tgrtbelgesel.m3u8
+#EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="https://LOGO.png" group-title="BELGESEL",YABAN TV
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/yabantv.m3u8
+#
+#--- MUZIK ----------------------------------------------------------------------------------------------------------------------------#
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",TRT MUZIK
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/trtmuzik.m3u8
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",DREAM TURK
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/dreamturk.m3u8
+
+
+#EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",KRAL POP
+#--M3U8_LINK
+
+#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",NR1 TURK
+#--M3U8_LINK
+
+#EXTINF:-1 tvg-id="Number1Ask.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",NR1 ASK
+#--M3U8_LINK
+
+#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",NR1 DAMAR
+#--M3U8_LINK
+
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",POWERTURK
+#--M3U8_LINK
+
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",POWERTURK SLOW
+#--M3U8_LINK
+
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",POWERTURK TAPTAZE
+#--M3U8_LINK
+
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",POWERTURK AKUSTIK
+#--M3U8_LINK
+
+#EXTINF:-1 tvg-id="MilyonTV.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",MILYON TV
+#--M3U8_LINK
+
+#EXTINF:-1 tvg-id="TatlisesTV.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",TATLISES
+#--M3U8_LINK
+
+#EXTINF:-1 tvg-id="TMB.tr" tvg-logo="https://LOGO.png" group-title="MUZIK",TMB
+#--M3U8_LINK
+
+
+
+
+
+#
+#--- COCUK ----------------------------------------------------------------------------------------------------------------------------#
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://LOGO.png" group-title="COCUK",TRT COCUK
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/trtcocuk.m3u8
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://LOGO.png" group-title="COCUK",DIYANET COCUK
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/trtcocukdiyanet.m3u8
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="https://LOGO.png" group-title="COCUK",MINIKA COCUK
+https://raw.githubusercontent.com/thawtes/triptv/refs/heads/main/480/minikacocuk.m3u8
+
+
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://LOGO.png" group-title="COCUK",MINIKA GO
+#--M3U8_LINK
+
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="https://LOGO.png" group-title="COCUK",CARTOON NETWORK
+#--M3U8_LINK
+
+#EXTINF:-1 tvg-id="EBATVOrtaokul.tr" tvg-logo="https://LOGO.png" group-title="COCUK",TRT EBA
+#--M3U8_LINK
+
+
