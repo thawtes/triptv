@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:NAME=480p,RESOLUTION=854x480
+https://ciner.daioncdn.net/showtv/showtv_480p.m3u8?sid=8dck7ga08chz
+#https://ciner.daioncdn.net/showtv/showtv_480p.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#https://ciner.daioncdn.net/showtv/showtv_360p.m3u8?ex=10800&st=ac1_kKBcRy65n3kE8651Kg&sid=8dck7ga08chz&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
