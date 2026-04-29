@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:NAME=480p,RESOLUTION=854x480
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e_480p.m3u8
